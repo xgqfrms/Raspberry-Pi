@@ -11,6 +11,10 @@ https://www.cnblogs.com/xgqfrms/p/13458634.html
 
 https://www.raspberrypi.org/documentation/configuration/
 
+https://www.raspberrypi.org/documentation/configuration/config-txt.md
+
+https://www.raspberrypi.org/documentation/configuration/config-txt/README.md
+
 ## wireless-cli
 
 https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
